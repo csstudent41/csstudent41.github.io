@@ -1,47 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>CS Students</title>
-	<link>https://csstudent41.github.io/tags/</link>
-	<description>Recent content in Tags on CS Students</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-    
-        <atom:link href="https://csstudent41.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>Notes</title>
-		<link>https://csstudent41.github.io/notes/</link>
-		<pubDate>Thu, 02 Nov 2023 16:32:26 +0530</pubDate>
-		
-		<guid>https://csstudent41.github.io/notes/</guid>
-		<description>&lt;p&gt;We will be adding some notes here.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>About</title>
-		<link>https://csstudent41.github.io/about/</link>
-		<pubDate>Thu, 02 Nov 2023 16:27:30 +0530</pubDate>
-		
-		<guid>https://csstudent41.github.io/about/</guid>
-		<description>&lt;p&gt;About page.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Important Links</title>
-		<link>https://csstudent41.github.io/links/</link>
-		<pubDate>Thu, 02 Nov 2023 16:05:19 +0530</pubDate>
-		
-		<guid>https://csstudent41.github.io/links/</guid>
-		<description>&lt;ul&gt;
-&lt;li&gt;📚   Vartak &lt;a href=&#34;https://drive.google.com/drive/folders/1uIVSglL-xTCZDKztrwjtgEzQL9yrF2QH?usp=sharing&#34;&gt;BSc. CS&lt;/a&gt; Study material&lt;/li&gt;
-&lt;li&gt;📜   Vartak Exam &lt;a href=&#34;../results%22&#34;&gt;Results&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🏫   Vartak College &lt;a href=&#34;https://avc.ac.in&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	</channel>
+    <title>Tags on CS Students</title>
+    <link>https://csstudent41.github.io/tags/</link>
+    <description>Recent content in Tags on CS Students</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://csstudent41.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
