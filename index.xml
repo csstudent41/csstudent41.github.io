@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home Page on Vartak CS</title>
+    <title>CS Students</title>
     <link>https://csstudent41.github.io/</link>
-    <description>Recent content in Home Page on Vartak CS</description>
+    <description>Recent content on CS Students</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2023 16:44:24 +0530</lastBuildDate><atom:link href="https://csstudent41.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://csstudent41.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Notes</title>
-      <link>https://csstudent41.github.io/notes/</link>
-      <pubDate>Thu, 02 Nov 2023 16:32:26 +0530</pubDate>
+      <title>Home Page</title>
+      <link>https://csstudent41.github.io/</link>
+      <pubDate>Thu, 02 Nov 2023 16:44:24 +0530</pubDate>
       
-      <guid>https://csstudent41.github.io/notes/</guid>
-      <description>We will be adding some notes here.</description>
+      <guid>https://csstudent41.github.io/</guid>
+      <description>Coming soon&amp;hellip; Here are some useful links :-
+📚 Vartak BSc. CS Study material 📜 Vartak Exam Results 🏫 Vartak College Website </description>
     </item>
     
   </channel>

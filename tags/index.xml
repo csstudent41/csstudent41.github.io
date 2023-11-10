@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vartak CS</title>
+    <title>Tags on CS Students</title>
     <link>https://csstudent41.github.io/tags/</link>
-    <description>Recent content in Tags on Vartak CS</description>
+    <description>Recent content in Tags on CS Students</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://csstudent41.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
