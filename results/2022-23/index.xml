@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2022 23 on CS Students</title>
+    <title>2022 23 on Vartak CS</title>
     <link>https://csstudent41.github.io/results/2022-23/</link>
-    <description>Recent content in 2022 23 on CS Students</description>
+    <description>Recent content in 2022 23 on Vartak CS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 21:09:39 +0530</lastBuildDate><atom:link href="https://csstudent41.github.io/results/2022-23/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fycs Sem1</title>
-      <link>https://csstudent41.github.io/results/2022-23/fycs-sem1/</link>
-      <pubDate>Thu, 09 Nov 2023 21:09:39 +0530</pubDate>
-      
-      <guid>https://csstudent41.github.io/results/2022-23/fycs-sem1/</guid>
-      <description>Sr. No. Seat No. Name Total
-Marks CGPA 1 20001 ANIRUDH ANILKUMAR 593 6.75 2 20002 /BARI KHUSHI 221 0.00 3 20003 BHADKAMKAR VEDAN.. 761 9.15 4 20004 /BHANDARI PRIYANKA 319 0.00 5 20005 BIRWADKAR DEVARTH.. 577 0.00 6 20006 BOBA ROHIT 392 0.00 7 20007 CHAUHAN RANJIT 610 7.30 8 20008 CHAVAN NILAY 475 0.00 9 20009 /CHHATOLA KAVITA 747 9.00 10 20010 /DADHEKAR NISHTHA 369 0.00 11 20011 DESHWAL SHUBHAM 87 0.</description>
-    </item>
-    
-    <item>
-      <title>Fycs Sem2</title>
-      <link>https://csstudent41.github.io/results/2022-23/fycs-sem2/</link>
-      <pubDate>Thu, 09 Nov 2023 21:09:39 +0530</pubDate>
-      
-      <guid>https://csstudent41.github.io/results/2022-23/fycs-sem2/</guid>
-      <description>Sr. No. Seat No. Name Total
-Marks CGPA 1 20001 ANIRUDH ANILKUMA.. 587 6.95 2 20002 /BARI KHUSHI 0 0.00 3 20003 BHADKAMKAR VEDA.. 821 9.60 4 20004 /BHANDARI PRIYANK.. 0 0.00 5 20005 BIRWADKAR DEVART.. 664 8.25 6 20006 BOBA ROHIT 394 0.00 7 20007 CHAUHAN RANJIT 601 7.35 8 20008 CHAVAN NILAY 503 5.70 9 20009 /CHHATOLA KAVITA 786 9.35 10 20010 /DADHEKAR NISHTHA 309 0.00 11 20011 DESHWAL SHUBHAM 0 0.</description>
-    </item>
-    
-    <item>
-      <title>Sycs Sem4</title>
-      <link>https://csstudent41.github.io/results/2022-23/sycs-sem4/</link>
-      <pubDate>Thu, 09 Nov 2023 21:09:39 +0530</pubDate>
-      
-      <guid>https://csstudent41.github.io/results/2022-23/sycs-sem4/</guid>
-      <description>Sr. No. Seat No. Name Total
-Marks CGPA 1 25001 BHARAMBE DEVEN.. 625 6.90 2 25002 BHOIR AYUSH 634 7.50 3 25003 /CHAUDHARI HARS.. 682 7.90 4 25004 CHAUDHARY MOH.. 486 0.00 5 25005 /CHAUDHARY YAS.. 668 7.90 6 25006 DEBNATH YASH 656 7.85 7 25007 /GHARAT SRISHTI 438 0.00 8 25008 GHONE SHUBHAM 661 7.90 9 25009 GIRI ADARSH 763 8.90 10 25010 GIRI VIVEK 543 0.00 11 25011 GUPTA RISHABH 765 9.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 10 Nov 2023 12:13:42 +0530</lastBuildDate><atom:link href="https://csstudent41.github.io/results/2022-23/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

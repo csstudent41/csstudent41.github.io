@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Results on CS Students</title>
+    <title>Results on Vartak CS</title>
     <link>https://csstudent41.github.io/results/</link>
-    <description>Recent content in Results on CS Students</description>
+    <description>Recent content in Results on Vartak CS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 21:09:39 +0530</lastBuildDate><atom:link href="https://csstudent41.github.io/results/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 12:13:42 +0530</lastBuildDate><atom:link href="https://csstudent41.github.io/results/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
