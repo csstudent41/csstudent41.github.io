@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 🌐 Webpage</title>
+    <link>https://csstudent41.github.io/notes/</link>
+    <description>Recent content in Notes on 🌐 Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Nov 2023 16:32:26 +0530</lastBuildDate>
+    <atom:link href="https://csstudent41.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
