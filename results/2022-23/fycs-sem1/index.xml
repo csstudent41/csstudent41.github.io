@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>📜 FYCS Sem I on 🌐 Webpage</title>
+    <title>📜  FYCS Sem I on 🌐 Webpage</title>
     <link>https://csstudent41.github.io/results/2022-23/fycs-sem1/</link>
-    <description>Recent content in 📜 FYCS Sem I on 🌐 Webpage</description>
+    <description>Recent content in 📜  FYCS Sem I on 🌐 Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 16:17:20 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 17:57:47 +0530</lastBuildDate>
     <atom:link href="https://csstudent41.github.io/results/2022-23/fycs-sem1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🎓 FYCS Sem I Toppers</title>
+      <title>🎓  FYCS Sem I</title>
       <link>https://csstudent41.github.io/results/2022-23/fycs-sem1/toppers/</link>
-      <pubDate>Wed, 22 Nov 2023 16:17:20 +0530</pubDate>
+      <pubDate>Thu, 23 Nov 2023 17:57:47 +0530</pubDate>
       <guid>https://csstudent41.github.io/results/2022-23/fycs-sem1/toppers/</guid>
       <description>Rank Seat
 No. Name Total
-Marks CGPA 1 20034 MARTINS RUSSELL JU.. 844 9.60 2 20054 /SHEDGE SUHANI 771 9.20 3 20003 BHADKAMKAR VEDAN.. 761 9.15 4 20030 /KUMAWAT POOJA 739 9.05 5 20009 /CHHATOLA KAVITA 747 9.00 6 20046 /PRAJAPATI SHIKHA 768 9.00 7 20061 YADAV DEEPAK 681 8.00 8 20044 POWAR SAHIL 649 7.95 9 20058 TAVARE SURAJ 643 7.60 10 20019 GONBHARE ASHWIN 615 7.55 11 20059 /UPADHYAY SAKSHI 639 7.</description>
+Marks GPA 1 20034 MARTINS RUSSELL JU.. 844 9.60 2 20054 /SHEDGE SUHANI 771 9.20 3 20003 BHADKAMKAR VEDAN.. 761 9.15 4 20030 /KUMAWAT POOJA 739 9.05 5 20046 /PRAJAPATI SHIKHA 768 9.00 6 20009 /CHHATOLA KAVITA 747 9.00 7 20061 YADAV DEEPAK 681 8.00 8 20044 POWAR SAHIL 649 7.95 9 20058 TAVARE SURAJ 643 7.60 10 20019 GONBHARE ASHWIN 615 7.55 11 20059 /UPADHYAY SAKSHI 639 7.</description>
     </item>
   </channel>
 </rss>
