@@ -43,6 +43,8 @@ a {
 }
 
 li { margin: 0.5em; }
+img { width: 100%; }
+li img { width: 1em; }
 
 table {
 	margin-left: auto;
