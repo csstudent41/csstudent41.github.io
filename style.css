@@ -1,9 +1,15 @@
 body {
+	position: fixed;
 	background-color: #1b1b1b;
 	color: #ddd;
 	font-family: 'Fira Sans', sans-serif;
-	max-width: 800px;
-	margin: auto;
+
+	top: 50%;
+	left: 50%;
+	height: 200px;
+	width: 400px;
+	margin-top: -100px;
+	margin-left: -200px;
 }
 
 h1, h2, h3, h4, h5 { text-align: center; }
