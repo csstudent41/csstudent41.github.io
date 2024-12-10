@@ -1,4 +1,4 @@
 # Vikas' Webpage
 
-This is used to be my personal website, now shifted to a new domain.
-This repos has been preserved for legacy reasons.
+This used to be my personal website, now moved to my VPS.
+This repo has been preserved for legacy reasons.
